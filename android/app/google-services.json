@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245179147893",
+    "project_id": "foodrush-app-612a3",
+    "storage_bucket": "foodrush-app-612a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245179147893:android:483c16002922fdf18dfa3c",
+        "android_client_info": {
+          "package_name": "com.example.foodrush_selling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245179147893-f170hde3i9lckasci1kq0fqorti937v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTYbdiRCEiVe6hU5EwsuC0Vgglt8qtkpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245179147893-f170hde3i9lckasci1kq0fqorti937v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
